@@ -1,0 +1,56 @@
+body{
+    text-align:center;
+    background-color:#333;
+    color:#FFF;
+    word-wrap:normal; 
+    
+}
+
+section{
+    text-align:inherit;
+}
+
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+
+
+li{
+     list-style-type:none;
+     text-align:center;
+     margin:0;
+     font-size:17px;
+
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    font-size: 0; 
+}
+
+
+.font{
+    text-decoration:underline;
+    text-align: center;
+    
+}
+
+.font-type{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family:"Manrope";
+}
+
+p{
+    margin-left:auto;
+    margin-right:auto;
+    width: 10em;
+}
+
+.length{
+    font-size:20px;
+}
