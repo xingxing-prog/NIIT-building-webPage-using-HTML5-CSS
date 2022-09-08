@@ -1,0 +1,142 @@
+
+body{
+    text-align: center;
+    background-color: #F9F4ED;
+    margin-left:auto;
+    margin-right:auto;
+    width: 550px;
+    font-family:'Roboto';
+
+}
+
+.space{
+    text-align: left;
+    
+}
+
+.thin{
+    font-family:"Montserrat";
+    font-weight: 300;
+    text-transform: uppercase;
+    padding:20px;
+    margin-bottom:0px;
+    
+}
+
+section{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+    margin: 20px;
+    width:600px;
+}
+
+
+
+#part{
+    text-align:left;
+    font-family:"Kaushan Script";
+    margin: 50px;
+    border: 5px solid #444;
+    width: 60px;
+    padding:0 15px 0;
+  
+}
+
+#name{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size:45px;
+    font-style:bold;
+    padding:5px 15px 5px;
+}
+
+
+#brief{
+    word-wrap: normal;
+    font-size:22px;
+    color:#444;
+    font-size:20px;
+    margin-left:auto;
+    margin-right:auto;
+    width:22em;
+    font-family:'Roboto';
+
+}
+
+#character{ 
+   
+    background-color: #c66;
+    color:white;  
+    text-transform: uppercase;
+    font-size:16px; 
+    text-align:center;
+    padding:8px 20px 8px;
+    letter-spacing: 1px;
+}
+
+hr{
+    height: 8px;
+    background-color: #c66;
+    border:none;
+    margin:30px;
+}
+
+img{
+    width: 27em;
+}
+
+.ul{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+    
+}
+
+.li{
+    list-style-type:none;
+    font-size: 24px;
+    display:inline-block;
+   
+    
+}
+
+ul li{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin-top: -1px;
+    width:400px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    
+}
+
+.font{
+
+    text-transform: uppercase;
+    font-size:30px;
+    letter-spacing: 2px;
+    padding:0;
+    margin-bottom: 0px;
+    padding-left:20px;
+  
+ 
+}
+
+p{
+    
+    color: gray;
+    margin-top:5px;
+    padding-left:20px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+    
+}
+
+footer{
+    margin-top:50px;
+}
+
