@@ -1,0 +1,43 @@
+
+body{
+    background-color:lightblue;
+    margin: 30px 10px;
+    color:#fff;
+}
+
+
+
+header{
+    
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border: 1px solid black;
+    padding:20px 50px;
+    background:#111;
+
+}
+
+section{
+    display:flex;
+    gap: 20px;
+    
+    
+}
+
+.details{
+    text-transform:capitalize;
+}
+
+#contact{
+
+    text-transform:capitalize;
+    background-color:lightblue;
+    padding:3px 18px;
+    border-radius: 8px;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
+}
